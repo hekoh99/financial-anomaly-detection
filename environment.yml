@@ -1,0 +1,13 @@
+name: DATA-ANALYSIS
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - kagglehub
+prefix: /home/haeun/anaconda3/envs/DATA-ANALYSIS
